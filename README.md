@@ -1,4 +1,4 @@
-# Desafio DIO: Modelando um iphne com UML
+# Desafio DIO: Modelando um iphOne com UML
 
 ## Funções:
 
